@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Behance</string>
+    <string name="fragment_project_title">Project</string>
+    <string name="fragment_bookmarks_title">Bookmarks</string>
+
+    /* errors */
+    <string name="unknown_error">Something went wrong. Try again later…</string>
+    <string name="no_connection_error">No connection</string>
+    <string name="forbidden_error">Invalid API key</string>
+    <string name="project_not_found_error">Project does not exist</string>
+    <string name="user_not_found_error">User does not exist</string>
+    <string name="too_many_requests_error">Rate limit exceeded</string>
+    <string name="internal_server_error">Something went wrong on the server side</string>
+    <string name="service_unavailable_error">Behance is up, but overloaded with requests. Try again later…</string>
+
+    <string name="load_state_retry_message">Retry</string>
+</resources>
